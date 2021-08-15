@@ -1,0 +1,19 @@
+{
+  "name": "node-dnd5e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedropazello/node-dnd5e.git"
+  },
+  "author": "Pedro Pazello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedropazello/node-dnd5e/issues"
+  },
+  "homepage": "https://github.com/pedropazello/node-dnd5e#readme"
+}
